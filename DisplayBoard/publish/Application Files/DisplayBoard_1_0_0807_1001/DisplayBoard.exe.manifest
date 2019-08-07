@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="DisplayBoard.exe" version="1.0.0807.1001" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="DisplayBoard.exe" version="1.0.0807.1001" publicKeyToken="5766c188e59776d6" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="DisplayBoard.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DisplayBoard.exe" size="195040">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DisplayBoard.exe" size="192480">
       <assemblyIdentity name="DisplayBoard" version="1.0.807.1000" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Uf2haCap/rJ8j0Jn/8iShTBIOykjKPnB8pOtQ2BrtaA=</dsig:DigestValue>
+        <dsig:DigestValue>RZtLQ5jbcD2ZoJlbzok1MFkSgDXTR71kIF+zKpzh9no=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -138,4 +138,4 @@
       <dsig:DigestValue>cOY0W4JWxlwuX1y3GWkIuSJr+fWrFY1/iDJehjMRkLI=</dsig:DigestValue>
     </hash>
   </file>
-</asmv1:assembly>
+<publisherIdentity name="CN=DESKTOP-OQ97CBS\yyx19" issuerKeyHash="b68cdb37a5cb6b7978be287d8100d5bfbfe15591" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ZlY5w4IM3S1tNqqqyTbnLWudpSFNIvxqGGB/0oPf6TU=</DigestValue></Reference></SignedInfo><SignatureValue>l9aJzVAx1clEOd/CRvwP8tHcsIOk1Kgw8zZAxAjOan630T/2JHAIcb52ZjwGNUXqn7l6tAiLbd7mBmv6ldrVgn/9UmjbPDNhX8St7YtpGMmx/w7DPTLQLa1Qzya903tgKgv2EiTWBAmzN4G9Af66kZndQCwyUiihXnIpiVFwKtY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uec2/L2VzaLt2jWsDbquaWaoJ7TVwJCjYhh/JmBsOmyC2KkMg0hhQdZAqSRrG5OzH9kJhuTVLB4HFL043Z2xrZmc+1z5P5jHs+bpCnITRP3bKdATtcPyBcIo+3eVLDMt3+untkD/ZOU3SV1AA2jZyroXXlcvHcASo51CTV7Sq0E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="35e9df83d27f60186afc224d21a59d6b2de736c9aaaa366d2ddd0c82c3395666" Description="" Url=""><as:assemblyIdentity name="DisplayBoard.exe" version="1.0.0807.1001" publicKeyToken="5766c188e59776d6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-OQ97CBS\yyx19</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>QySmk3Buo4PeJdANhXlHOhhFcdd7sfi8oCAV2XRY62M=</DigestValue></Reference></SignedInfo><SignatureValue>kJIRWqgG6gYXgv/J5bjUhWGtEe1eTtQfH3IltsVznFgflR9ocoaDuF4Nh48lAnkMUR859gZ9xH3O6XcQ7JXeJVKwcjv8cWNTsqA6v8MFzyXAfZUSua6DRqlC6kdC714SRywrCNM3xgOUYj15yA4pVMIO71h0OU3NhMQg4qSbun0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uec2/L2VzaLt2jWsDbquaWaoJ7TVwJCjYhh/JmBsOmyC2KkMg0hhQdZAqSRrG5OzH9kJhuTVLB4HFL043Z2xrZmc+1z5P5jHs+bpCnITRP3bKdATtcPyBcIo+3eVLDMt3+untkD/ZOU3SV1AA2jZyroXXlcvHcASo51CTV7Sq0E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQIbXzXkxsH6pAVoxe+vNJuDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE8AUQA5ADcAQwBCAFMAXAB5AHkAeAAxADkwHhcNMTkwNzI5MDIwMzQ4WhcNMjAwNzI4MDgwMzQ4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE8AUQA5ADcAQwBCAFMAXAB5AHkAeAAxADkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALnnNvy9lc2i7do1rA26rmlmqCe01cCQo2IYfyZgbDpsgtipDINIYUHWQKkkaxuTsx/ZCYbk1SweBxS9ON2dsa2ZnPtc+T+Yx7Pm6QpyE0T92ynQE7XD8gXCKPt3lSwzLd/rp7ZA/2TlN0ldQANo2cq6F15XLx3AEqOdQk1e0qtBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAAd6hQ8eNFFV8n3VF0exJ3uONdYdZEBIogMgiZyE1lv762N+GpUlq0oavBldqbd1QjdENyiEj8jVIBqbqNmqjaRaFwoOvb5vYwPFqFonLlU5fRhItmXzhdBulkD7g66ya06bG1I0joRYvd+pcfiwwiVyOFpa2pLrOhpy+VS91lCo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

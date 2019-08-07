@@ -129,8 +129,6 @@ C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\bin\Debug\DisplayBoa
 C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\bin\Debug\DisplayBoard\DisplayBoard.exe
 C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\bin\Debug\DisplayBoard\DisplayBoard.pdb
 C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\bin\Debug\DisplayBoard\Newtonsoft.Json.dll
-C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\bin\Debug\DisplayBoard\Mono.Security.dll
-C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\obj\Debug\DisplayBoard.csprojAssemblyReference.cache
 C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\obj\Debug\DisplayBoard.DisplayBoard.resources
 C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\obj\Debug\DisplayBoard.Properties.Resources.resources
 C:\Users\yyx19\Desktop\GIT\DisplayBoard-master\DisplayBoard\obj\Debug\DisplayBoard.csproj.GenerateResource.cache
@@ -170,3 +168,8 @@ C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Debug\DisplayBoard.exe
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Debug\DisplayBoard.pdb
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Debug\DisplayBoard\Mono.Security.dll
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Debug\DisplayBoard.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\git\DisplayBoard-master\DisplayBoard\bin\Debug\DisplayBoard\DisplayBoard.exe.manifest
+C:\Users\yyx19\Desktop\git\DisplayBoard-master\DisplayBoard\bin\Debug\DisplayBoard\DisplayBoard.application
+C:\Users\yyx19\Desktop\git\DisplayBoard-master\DisplayBoard\obj\Debug\DisplayBoard.exe.manifest
+C:\Users\yyx19\Desktop\git\DisplayBoard-master\DisplayBoard\obj\Debug\DisplayBoard.application
+C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Debug\DisplayBoard\Parameter\Display - 复制.xml

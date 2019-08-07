@@ -23,8 +23,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>1001</ApplicationRevision>
-    <ApplicationVersion>1.0.0729.%2a</ApplicationVersion>
+    <ApplicationRevision>1002</ApplicationRevision>
+    <ApplicationVersion>1.0.0807.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -127,6 +127,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DisplayBoard.ico" />
+    <Content Include="Parameter\Display - 复制.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Parameter\Display.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <SubType>Designer</SubType>

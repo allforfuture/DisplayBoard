@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="DisplayBoard.exe" version="1.0.0729.1001" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="DisplayBoard.exe" version="1.0.0807.1001" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="DisplayBoard.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="DisplayBoard" version="1.0.729.1000" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="DisplayBoard" version="1.0.807.1000" language="neutral" processorArchitecture="msil" />
     <commandLine file="DisplayBoard.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DisplayBoard.exe" size="194528">
-      <assemblyIdentity name="DisplayBoard" version="1.0.729.1000" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DisplayBoard.exe" size="195040">
+      <assemblyIdentity name="DisplayBoard" version="1.0.807.1000" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZYG6+qZaIficKhtnMVpaXUBhNUnshgGvq608AlOIQT8=</dsig:DigestValue>
+        <dsig:DigestValue>Uf2haCap/rJ8j0Jn/8iShTBIOykjKPnB8pOtQ2BrtaA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -102,13 +102,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="DisplayBoard.exe.config" size="173">
+  <file name="DisplayBoard.exe.config" size="178">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Ft9o/LAFWwIF6d9ZFsWSEEXCO1IVICJKfmiIAUTf3P8=</dsig:DigestValue>
+      <dsig:DigestValue>8WVUCbxS/ZPAnR+A/SvJ+Zb7ImwQvMZv+LnSzoKnzsQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DisplayBoard.ico" size="67646">
@@ -120,13 +120,22 @@
       <dsig:DigestValue>K8Cls3pucxLxB4O8azrQ+xl0qQwsy+sSuorwc9qbEuU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Parameter\Display.xml" size="12938" writeableType="applicationData">
+  <file name="Parameter\Display - 复制.xml" size="18502" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>adwMCl2j7eDTYt+CTSXEdm5arJfNZJyZC9019ql2ap4=</dsig:DigestValue>
+      <dsig:DigestValue>wc6/WrjvO1htlxRQbXHR4Oo8QcVJUgSY6Pwkwode4C8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Parameter\Display.xml" size="9833" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cOY0W4JWxlwuX1y3GWkIuSJr+fWrFY1/iDJehjMRkLI=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
