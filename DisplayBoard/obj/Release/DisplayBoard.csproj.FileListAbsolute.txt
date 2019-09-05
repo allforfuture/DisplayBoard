@@ -123,8 +123,6 @@ C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Release\DisplayBoard\Displa
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Release\DisplayBoard\DisplayBoard.exe
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Release\DisplayBoard\DisplayBoard.pdb
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Release\DisplayBoard\Newtonsoft.Json.dll
-C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Release\DisplayBoard\Mono.Security.dll
-C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.csprojAssemblyReference.cache
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.DisplayBoard.resources
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.Properties.Resources.resources
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.csproj.GenerateResource.cache
@@ -134,4 +132,5 @@ C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.applic
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.csproj.CopyComplete
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.exe
 C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.pdb
-C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Release\DisplayBoard\Parameter\Display - 复制.xml
+C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\bin\Release\DisplayBoard\Mono.Security.dll
+C:\Users\yyx19\Desktop\DisplayBoard\DisplayBoard\obj\Release\DisplayBoard.csprojAssemblyReference.cache

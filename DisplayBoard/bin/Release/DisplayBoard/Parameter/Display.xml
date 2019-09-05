@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <display>
   <database>
-    <DB1>Server=10.10.100.137;Port=5432;User id=pqm;password=dbuser;Database=pqm_aoi_kk08;</DB1>
-    <DB2>Server=10.10.100.137;Port=5432;User id=pqm;password=dbuser;Database=pqm_tst_kk08;</DB2>
-    <line>L01,L02,L03,L04,L05,L06,L07,L08,L09,L10</line>
+    <DB1>Server=10.10.100.137;Port=5432;User id=pqm;password=dbuser;Database=pqm_aoi_kk09;</DB1>
+    <DB2>Server=10.10.100.137;Port=5432;User id=pqm;password=dbuser;Database=pqm_tst_kk09;</DB2>
+    <line>L02,L03,L04,L05,L06,L07</line>
   </database>
   <flash>600</flash>
   <!--API-->
@@ -34,7 +34,8 @@
       <SoftStop assy="Docking" unit="SOFT_STOP" input="AE-9" output="AE-9" process="D-COSM">3,1259,4.09%,0.81%,0.72%,92.00%,99.9%</SoftStop>
       <Base_Welding assy="Base_Welding" unit="MOTER" input="AE-16_08MH" output="AE-10" process="AE-16_04HB,BW-COSM">5,1250,6.10%,1.00%,0.00%,92.00%,99.0%</Base_Welding>
       <Tab_East_West_welding assy="Tab_Welding" unit="TAB_EW" input="AE-16_07JT" output="AE-14" process="TA-COSM,AE-16_07TW,AE-16_07TE">5,1246,5.22%,2.00%,0.96%,92.00%,99.3%</Tab_East_West_welding>
-      <Hotbar_Insulation_Tape assy="Hotbar" unit="INSLATION_TAPE" input="AE-16_12PE" output="AE-16_33IT" process="AE-16_09MB,AE-42,H-COSM">12,1246,2.83%,1.00%,2.00%,92.00%,99.5%</Hotbar_Insulation_Tape>
+      <Hotbar assy="Hotbar" unit="HOTBAR" input="AE-16_12PE" output="AE-16_09MB" process="">12,1246,2.83%,1.00%,2.00%,92.00%,99.5%</Hotbar>
+      <Insulation_Tape assy="Hotbar" unit="INSLATION_TAPE" input="AE-42" output="AE-16_33IT" process="H-COSM">12,1246,2.83%,1.00%,2.00%,92.00%,99.5%</Insulation_Tape>
       <Tab_South_Welding assy="Hotbar" unit="TAB_S" input="AE-67" output="AE-67" process="ST-COSM">5,1246,5.28%,2.00%,0.89%,92.00%,99.5%</Tab_South_Welding>
       <Pre-bend_Label assy="Hotbar" unit="PRE-BEND_ETCHING" input="AE-16_16PB" output="HNTRS" process="ST-COSM,AE-16_17BL,EA-COSM">7,1246,1.00%,0.00%,2.00%,92.00%,99.5%</Pre-bend_Label>
       <Final assy="Final" unit="FINAL" input="AE-15" output="AE-15" process="F-COSM">5,1200,3.06%,2.00%,0.00%,95.00%,99.5%</Final>
@@ -59,7 +60,8 @@
       <SoftStop assy="Docking" unit="SOFT_STOP" input="AE-9" output="AE-9" process="D-COSM">3,1259,4.09%,0.81%,0.72%,92.00%,99.9%</SoftStop>
       <Base_Welding assy="Base_Welding" unit="MOTER" input="AE-16_08MH" output="AE-10" process="AE-16_04HB,BW-COSM">5,1250,6.10%,1.00%,0.00%,92.00%,99.0%</Base_Welding>
       <Tab_East_West_welding assy="Tab_Welding" unit="TAB_EW" input="AE-16_07JT" output="AE-14" process="TA-COSM,AE-16_07TW,AE-16_07TE">5,1246,5.22%,2.00%,0.96%,92.00%,99.3%</Tab_East_West_welding>
-      <Hotbar_Insulation_Tape assy="Hotbar" unit="INSLATION_TAPE" input="AE-16_12PE" output="AE-16_33IT" process="AE-16_09MB,AE-42,H-COSM">12,1246,2.83%,1.00%,2.00%,92.00%,99.5%</Hotbar_Insulation_Tape>
+      <Hotbar assy="Hotbar" unit="HOTBAR" input="AE-16_12PE" output="AE-16_09MB" process="">12,1246,2.83%,1.00%,2.00%,92.00%,99.5%</Hotbar>
+      <Insulation_Tape assy="Hotbar" unit="INSLATION_TAPE" input="AE-42" output="AE-16_33IT" process="H-COSM">12,1246,2.83%,1.00%,2.00%,92.00%,99.5%</Insulation_Tape>
       <Tab_South_Welding assy="Hotbar" unit="TAB_S" input="AE-67" output="AE-67" process="ST-COSM">5,1246,5.28%,2.00%,0.89%,92.00%,99.5%</Tab_South_Welding>
       <Pre-bend_Label assy="Hotbar" unit="PRE-BEND_ETCHING" input="AE-16_16PB" output="HNTRS" process="ST-COSM,AE-16_17BL,EA-COSM">7,1246,1.00%,0.00%,2.00%,92.00%,99.5%</Pre-bend_Label>
       <Final assy="Final" unit="FINAL" input="AE-15" output="AE-15" process="F-COSM">5,1200,3.06%,2.00%,0.00%,95.00%,99.5%</Final>
